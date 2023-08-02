@@ -1,4 +1,3 @@
-
 #Basics of Shell Scripting
 
 This project is a collection of shell scripts that demonstrate the basics of shell scripting.
