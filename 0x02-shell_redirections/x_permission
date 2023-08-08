@@ -1,3 +1,3 @@
 #!/bin/bash
-find /root/alx-system_engineering-devops/0x02-shell_redirections -type f ! -name "README.md" ! -name "iacta" -exec chmod u+x {} \;
+find /root/alx-system_engineering-devops/0x02-shell_redirections -type f ! -name "README.md" ! -name "iacta" ! -name "ls_cwd_content" -exec chmod u+x {} \;
 
